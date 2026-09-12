@@ -1,0 +1,80 @@
+[
+  {
+    "name": "rehearsal",
+    "prompt": "Candid wide documentary photograph, full-bleed 16:9. NIGHT inside a cramped red-brick rehearsal room: a Black woman with short natural hair in a cobalt T-shirt plays electric bass while a South Asian man with long hair keeps time on a drum kit. Both adults. Burgundy acoustic panels, tangled cables, posters without readable text, amber tungsten bulbs and deep blue stage lighting. Medium-wide from low near amplifier, joyful concentration. Strong dark shadows, saturated red blue contrast, authentic used equipment. No white studio, no beige clothes, no laptops, no camera prop. No text or logo. Visually completely different from pale stock imagery.",
+    "source": "/Users/harshit/.codex/generated_images/01a08783-10c4-7ea2-a7d8-de28a60970e4/exec-fe17468f-1a90-4233-8e04-b50fcc331a3a.png",
+    "output": "public/assets/rehearsal-v3.webp"
+  },
+  {
+    "name": "field-photo",
+    "prompt": "Full-bleed 16:9 outdoor documentary photograph. A middle-aged Arab woman wearing a rust-orange hijab and navy rain jacket teaches an older East Asian man with close-cropped gray hair to photograph waves with a compact camera on a rugged black-rock COAST. Huge teal ocean, dramatic overcast sky, sea spray, wind, wet rocks. Both adults seen from behind and side at medium-wide distance, thirds composition. Cool diffused storm light, lively natural detail, editorial travel photography. No white studio, no interior, no table, no text, no logos.",
+    "source": "/Users/harshit/.codex/generated_images/01a08783-10c4-7ea2-a7d8-de28a60970e4/exec-60051d99-8184-4603-8690-bab606f8600a.png",
+    "output": "public/assets/field-photo-v3.webp"
+  },
+  {
+    "name": "makerspace",
+    "prompt": "Full-bleed 16:9 documentary editorial photo. A young adult South Asian woman with round glasses and cropped black hair in a bright yellow work shirt collaborates with a Black adult man who uses a wheelchair at an accessible electronics workbench in a busy community makerspace. Small red robot chassis, circuit boards, tools, soldering station safely in its stand, pegboards. Warehouse high ceiling, green industrial metal, cyan fluorescent overhead lights, a laptop with abstract unreadable code on side. Wide environmental framing, humans small relative to context, authentic teamwork. No white backdrop, no beige palette, no text or logos.",
+    "source": "/Users/harshit/.codex/generated_images/01a08783-10c4-7ea2-a7d8-de28a60970e4/exec-3c3f12fe-05f8-4999-865e-97117def9983.png",
+    "output": "public/assets/makerspace-v3.webp"
+  },
+  {
+    "name": "garden",
+    "prompt": "Full-bleed 16:9 documentary photograph of a lively COMMUNITY GARDEN in early morning GOLDEN sun. Older Black woman with gray locs, a young East Asian adult man in a green cap, a middle-aged white woman with freckles in purple overalls each working along an outdoor raised bed, exchanging seedlings. Weathered timber, red tomatoes, broad green leaves, little urban buildings in distance, dirt on hands. Wide shot, varied candid postures, strong green-orange color story and sun flare. Genuine active learning, no table indoors, no pale white room, no text or logos.",
+    "source": "/Users/harshit/.codex/generated_images/01a08783-10c4-7ea2-a7d8-de28a60970e4/exec-1eb1de11-1e29-4dcb-9fbc-e1bf28d2004d.png",
+    "output": "public/assets/garden-v3.webp"
+  },
+  {
+    "name": "kitchen",
+    "prompt": "Wide 16:9 full-bleed documentary editorial photograph inside a colorful busy HOME KITCHEN. Elderly South Asian man with silver beard wearing teal kurta shows a young adult Latina woman with curly dark hair in red apron how to roll flatbread. Hands working separately on dough, blue patterned tile, steel bowls, flour, fresh coriander, open spice tins, orange stove glow, evening artificial warm light. Side-on close-medium composition, lived-in domestic setting, tactile motion and texture. No pale studio or neutral clothing, no other people, no text or logos.",
+    "source": "/Users/harshit/.codex/generated_images/01a08783-10c4-7ea2-a7d8-de28a60970e4/exec-d4102647-8e09-4f18-b3d9-a4c3ae971c83.png",
+    "output": "public/assets/kitchen-v3.webp"
+  },
+  {
+    "name": "repair",
+    "prompt": "Full-bleed 16:9 environmental documentary photograph inside a narrow urban BICYCLE REPAIR SHOP. A middle-aged East Asian woman with short silver hair, tattoos, black mechanic apron shows a young Black adult with close hair and green T-shirt how to fit an inner tube, each holding separate tools. Bike upside down on a repair stand, orange cabinets, hanging wheels filling background, oil marked concrete floor. Hard late afternoon sunlight through shutter creates bold stripes, high contrast charcoal and orange colors, wide-angle perspective. No white studio, no laptops, no text or logos.",
+    "source": "/Users/harshit/.codex/generated_images/01a08783-10c4-7ea2-a7d8-de28a60970e4/exec-550a45d8-6e12-4c91-a164-0894651ad8cc.png",
+    "output": "public/assets/repair-v3.webp"
+  },
+  {
+    "name": "sketchwalk",
+    "prompt": "Full-bleed 16:9 travel editorial photograph. A young adult white red-haired man wearing a blue denim jacket sits on a stone step drawing a vibrant terracotta old-town street in a spiral sketchbook. Beside him a middle-aged South Asian woman in a mustard raincoat points toward architectural arches. Small humans, wide establishing shot, cobbled lane, pastel green shutters, potted flowers, moody wet morning light after rain. Visually rich architectural setting with distinct depth. No indoors, no beige sweaters, no text or logos.",
+    "source": "/Users/harshit/.codex/generated_images/01a08783-10c4-7ea2-a7d8-de28a60970e4/exec-b946ab5b-0765-4b4e-b954-720b7d60ed07.png",
+    "output": "public/assets/sketchwalk-v3.webp"
+  },
+  {
+    "name": "chesspark",
+    "prompt": "Full-bleed 16:9 documentary editorial photograph at twilight in an outdoor city park. Elderly white man with white mustache and dark flat cap playing chess with a young adult Black woman with braided hair in magenta jacket across a weathered green metal chess table. Wide side view, both thinking and discussing, autumn orange leaves, empty park benches, violet dusk sky, warm streetlamp glow, believable chessboard, rich film grain. No white studio, no laptop, no camera, no text or logos.",
+    "source": "/Users/harshit/.codex/generated_images/01a08783-10c4-7ea2-a7d8-de28a60970e4/exec-69af66bf-4c06-4f65-b226-8677376d9274.png",
+    "output": "public/assets/chesspark-v3.webp"
+  },
+  {
+    "name": "circle-session",
+    "prompt": "Full-bleed 16:9 documentary editorial photograph in a converted community hall with high dark wooden rafters, emerald walls and mismatched chairs. THREE ADULTS in separate clear positions: a bald Latino man in orange overshirt holds a ukulele, a young East Asian woman in black T-shirt shows a sketchbook, an older Black woman in violet blouse gestures toward a laptop on a low table. Candid exchanging interests, wide shot showing entire room, late afternoon shafts of light across dark floor, atmosphere of friendly local club, saturated green orange plum palette. Not a pale studio, not repeated faces, no text or logos.",
+    "source": "/Users/harshit/.codex/generated_images/01a08783-10c4-7ea2-a7d8-de28a60970e4/exec-74baa575-6e5c-44bf-81eb-31dbe8cb4492.png",
+    "output": "public/assets/circle-session-v3.webp"
+  },
+{
+  "name": "textiles",
+  "prompt": "Photorealistic 16:9 editorial photograph, overhead close-up of dark brown hands and older pale freckled hands at opposite edges of a sewing table repairing a denim jacket with orange thread. African wax print fabric, mustard scissors, wooden sewing box, no faces, strong directional afternoon light, indigo orange pink textile colors, textured worn tabletop. No studio white background, no words or logos. Website image about mending together.",
+  "source": "/Users/harshit/.codex/generated_images/01a08783-10c4-7ea2-a7d8-de28a60970e4/exec-525d426e-b0ef-4b77-ba76-07cd28c207c1.png",
+  "output": "public/assets/textiles-v3.webp"
+},
+{
+  "name": "language",
+  "prompt": "Photorealistic 16:9 editorial documentary photograph in a small Tokyo-style ramen diner at NIGHT. Two ADULT friends practising a language: a Mexican man with curly hair and bright green jacket opposite a Japanese woman with silver bob in a burgundy jacket, separate hands holding little plain paper vocabulary cards. Rainy blue window, scarlet lantern, steam, stainless counter, no other main people. Candid wide side view, cinematic neon reflections and vivid color, no readable text, no logos, no beige sweaters or white studio.",
+  "source": "/Users/harshit/.codex/generated_images/01a08783-10c4-7ea2-a7d8-de28a60970e4/exec-276f27c6-18aa-4fcf-8678-616cebd66269.png",
+  "output": "public/assets/language-v3.webp"
+},
+{
+  "name": "stargazing",
+  "prompt": "Photorealistic 16:9 panoramic editorial landscape of three adults seen as small silhouettes around a telescope on a dark hill at NIGHT. One wears a bright red parka, one dark blue, one green. Vast starry sky with Milky Way, indigo mountains, dim red headlamp, rich midnight cyan purple palette. Credible astronomy club scene, wide composition with sky dominant. No text, no logos, no indoor setting, no pale backdrop.",
+  "source": "/Users/harshit/.codex/generated_images/01a08783-10c4-7ea2-a7d8-de28a60970e4/exec-e77830fc-b9e5-47ed-88df-bc972c0ea4d7.png",
+  "output": "public/assets/stargazing-v3.webp"
+},
+{
+  "name": "printmaking",
+  "prompt": "Photorealistic 16:9 editorial documentary photo of a middle-aged Pacific Islander woman with curly salt-and-pepper hair in a coral apron teaching a young adult white man with shaved head and tattoos to use a hand roller at a PRINTMAKING STUDIO. Each has own tool, bright yellow ink, cobalt and magenta prints hanging overhead, scarred black table, industrial arched window with harsh midday light. Wide creative workshop scene, no beige, no laptop, no readable letters, no logos.",
+  "source": "/Users/harshit/.codex/generated_images/01a08783-10c4-7ea2-a7d8-de28a60970e4/exec-e2c64f99-1245-48ad-8d39-2d5cc48ea23f.png",
+  "output": "public/assets/printmaking-v3.webp"
+}
+]

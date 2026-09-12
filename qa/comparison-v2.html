@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Minerva — desktop design QA comparison</title>
+    <style>
+      :root { color-scheme: light; font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
+      * { box-sizing: border-box; }
+      body { margin: 0; background: #e9e9eb; color: #1d1d1f; }
+      header { padding: 18px 22px 14px; background: #fff; border-bottom: 1px solid #d2d2d7; }
+      h1 { margin: 0 0 4px; font-size: 20px; font-weight: 500; letter-spacing: -.02em; }
+      p { margin: 0; color: #6e6e73; font-size: 13px; }
+      main { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 14px; padding: 14px; }
+      section { min-width: 0; background: #fff; border: 1px solid #d2d2d7; border-radius: 8px; overflow: hidden; }
+      h2 { margin: 0; padding: 11px 14px; font-size: 14px; font-weight: 500; border-bottom: 1px solid #e5e5e7; }
+      .stage { aspect-ratio: 1487 / 1058; overflow: hidden; background: #fff; }
+      .source { width: 100%; height: 100%; object-fit: contain; object-position: top center; display: block; }
+      iframe { width: 1487px; height: 1058px; border: 0; display: block; }
+      .note { padding: 10px 14px 12px; border-top: 1px solid #e5e5e7; color: #6e6e73; font-size: 12px; line-height: 1.35; }
+      @media (max-width: 800px) { main { grid-template-columns: 1fr; } }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Minerva desktop visual comparison</h1>
+      <p>Same review input: selected source direction beside the live desktop implementation. The prototype viewport is 1487 × 1058 CSS px at device scale 1.</p>
+    </header>
+    <main>
+      <section>
+        <h2>Selected Apple-era source direction · 1487 × 1058</h2>
+        <div class="stage"><img class="source" src="/qa/reference.png" alt="Selected Minerva Apple-era visual reference" /></div>
+        <div class="note">Source is normalized into the same review stage for composition, hierarchy, image treatment, and control anatomy comparison.</div>
+      </section>
+      <section>
+        <h2>Working implementation · 1487 × 1058 CSS px</h2>
+        <div class="stage"><iframe src="/" title="Live Minerva desktop implementation"></iframe></div>
+        <div class="note">Live route at the initial landing state. Scroll the embedded page to inspect the 50-item visual gallery and editorial story sections.</div>
+      </section>
+    </main>
+  <script>
+      const frame = document.querySelector('iframe');
+      const fit = () => frame.style.zoom = frame.parentElement.clientWidth / 1487;
+      new ResizeObserver(fit).observe(frame.parentElement); fit();
+    </script></body>
+</html>
